@@ -1,5 +1,9 @@
 # 할거너무많달 - 한걸음
 
+## 🚀 배포
+
+**배포 주소: http://han-step-fe.s3-website.ap-northeast-2.amazonaws.com/**
+
 ## 🔗 레포지토리 (Repositories)
 
 | 구분 | 링크 |
